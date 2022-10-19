@@ -1,0 +1,22 @@
+/* css max-width=1000px  */
+/* navigation */
+#navbar{
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+#navbar ul li a{
+    padding: 11px 10px;
+    font-size: 1rem;
+    padding-bottom: 8px;
+}
+
+/* home section */
+/* services section  */
+#services{
+    flex-direction: column;
+    /* height: 500px; */
+}
+/* client section  */
+/* contact section  */
+/* footbar  */
